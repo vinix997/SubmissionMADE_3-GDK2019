@@ -1,0 +1,15 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">Test</string>
+    <string name="tv_show">TV Show</string>
+    <string name="movies">Movies</string>
+    <string name="settings">Change Language Settings</string>
+    <string name="date">Release Date: </string>
+    <string name="rating">Rating: </string>\
+    <string name="overview">Overview:</string>
+    <string name="popularity">Popularity:</string>
+    <string name="fAirDate">First Air Date:</string>
+    <string name="oriLang">Original Language:</string>
+</resources>

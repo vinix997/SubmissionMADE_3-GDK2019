@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff = "urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test">Test</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="movies">Film</string>
+    <string name="settings">Ubah Setting Bahasa</string>
+    <string name="date">Tanggal Rilis: </string>
+    <string name="rating">Rating: </string>
+    <string name="overview">Ikhtisar: </string>
+    <string name="popularity">Popularitas:</string>
+    <string name="fAirDate">Tanggal rilis pertama:</string>
+    <string name="oriLang">Bahasa asli:</string>
+</resources>
